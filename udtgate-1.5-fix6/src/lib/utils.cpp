@@ -4,6 +4,7 @@
 #include <netinet/in.h>
 #include <utils.h>
 #include <errno.h>
+#include <cstring>
 
 extern Logger logger;
 extern int debug_level;

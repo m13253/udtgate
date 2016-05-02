@@ -50,6 +50,9 @@ written by
    #include <windows.h>
 #endif
 #include "udt.h"
+#include <math.h>
+#include <stdlib.h>
+#include <string.h>
 
 
 #ifdef WIN32

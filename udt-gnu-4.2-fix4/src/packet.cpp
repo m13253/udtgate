@@ -140,6 +140,7 @@ written by
 
 
 #include "packet.h"
+#include <string.h>
 
 
 const int CPacket::m_iPktHdrSize = 16;

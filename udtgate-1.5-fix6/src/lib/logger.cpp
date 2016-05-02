@@ -1,4 +1,6 @@
 #include <logger.h>
+#include <stdlib.h>
+#include <string.h>
 
 Logger logger();
 

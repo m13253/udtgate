@@ -18,6 +18,7 @@
 #include <vector>
 #include <string>
 #include <udt.h>
+#include <cstdlib>
 
 #if HAVE_GETIFADDRS
 #    include <ifaddrs.h>
